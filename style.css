@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(#e66465, #9198e5);
+    background-size: cover;
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+margin: 0;
+}
+#info{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+h2{
+    font-size: 30px;
+    font-weight: bolder;
+}
+#input{
+    font-size: 20px;
+    border-radius: 20px;
+    width: 25%;
+    text-align: center;
+    height: 60px;
+}
+#start{
+    background-color: lightgreen;
+    font-size: 30px;
+    border-radius: 20px;
+    width: 100px;
+    
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(0, 225, 255);
+    border: 10px solid black;
+    margin-top: 100px;
+
+} 
